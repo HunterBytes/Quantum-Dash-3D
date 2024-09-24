@@ -8,9 +8,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 Quantum Dash 3D is a dynamic game where players must maneuver through obstacle-filled environments. As the levels progress, the difficulty increases, requiring quick reflexes and precise movements.
@@ -23,11 +20,12 @@ Quantum Dash 3D is a dynamic game where players must maneuver through obstacle-f
 - **Engaging UI**: User-friendly interface for easy navigation.
 
 ## Installation
-2. Clone the repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Quantum-Dash-3D.git
    pen the project in Unity Hub and add the cloned project directory.
 
+2. Open the project in Unity Hub and add the cloned project directory.
 3. Open the project in Unity:
 
 - Launch Unity Hub.
@@ -39,3 +37,16 @@ Quantum Dash 3D is a dynamic game where players must maneuver through obstacle-f
 Go to Window > Package Manager in the Unity Editor.
 Install any missing packages as indicated.
 
+## Usage
+Open Unity and navigate to the Scenes folder.
+Open the main scene.
+Click the Play button in the Unity Editor to test the game.
+
+##Project Structure
+bash
+Copy code
+Quantum-Dash-3D/
+├── Assets/               # Game assets
+├── Packages/             # Unity package manager files
+├── ProjectSettings/      # Project settings and configurations
+└── README.md             # Project documentation
