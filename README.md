@@ -44,13 +44,18 @@ Click the Play button in the Unity Editor to test the game.
 
 ## Project Structure
 
-Quantum-Dash-3D/
-├── Assets/                       # Game assets (scripts, prefabs, scenes, etc.)
-│   ├── Gameplay/                 # Scripts and logic related to gameplay
-│   ├── Obstacles/                # Obstacles and environmental assets
-│   ├── Player/                   # Player-related scripts and assets
-│   ├── UI/                       # User interface elements
-│   └── ...                       # Other asset folders as needed
-├── Packages/                     # Unity package manager files
-├── ProjectSettings/              # Project settings and configurations
-└── README.md                     # Project documentation (this file)
+```markdown
+### Project Structure
+
+| Folder               | Description                                   |
+|----------------------|-----------------------------------------------|
+| `Quantum-Dash-3D/`   | Root project directory                        |
+| ├── `Assets/`        | Game assets (scripts, prefabs, scenes, etc.)  |
+| │   ├── `Gameplay/`  | Scripts and logic related to gameplay         |
+| │   ├── `Obstacles/` | Obstacles and environmental assets            |
+| │   ├── `Player/`    | Player-related scripts and assets             |
+| │   ├── `UI/`        | User interface elements                       |
+| │   └── `...`        | Other asset folders as needed                 |
+| ├── `Packages/`      | Unity package manager files                   |
+| ├── `ProjectSettings/`| Project settings and configurations          |
+| └── `README.md`      | Project documentation (this file)             |
