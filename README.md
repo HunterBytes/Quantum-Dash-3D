@@ -23,7 +23,19 @@ Quantum Dash 3D is a dynamic game where players must maneuver through obstacle-f
 - **Engaging UI**: User-friendly interface for easy navigation.
 
 ## Installation
-1. Clone the repository:
+2. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Quantum-Dash-3D.git
+   pen the project in Unity Hub and add the cloned project directory.
+
+3. Open the project in Unity:
+
+- Launch Unity Hub.
+-  Select the appropriate Unity version specified in the project settings.
+- Click on "Open" and select the project directory.
+
+4. Install the required packages:
+
+Go to Window > Package Manager in the Unity Editor.
+Install any missing packages as indicated.
 
