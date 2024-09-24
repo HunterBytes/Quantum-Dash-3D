@@ -42,9 +42,8 @@ Open Unity and navigate to the Scenes folder.
 Open the main scene.
 Click the Play button in the Unity Editor to test the game.
 
-##Project Structure
-bash
-Copy code
+## Project Structure
+
 Quantum-Dash-3D/
 ├── Assets/               # Game assets
 ├── Packages/             # Unity package manager files
